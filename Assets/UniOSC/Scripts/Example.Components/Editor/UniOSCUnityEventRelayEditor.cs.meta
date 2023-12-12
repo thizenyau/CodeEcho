@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 299ab5929337c1a4ab2764b65d1f4e03
+timeCreated: 1482239895
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/Editor/UniOSCUnityEventRelayEditor.cs
+  uploadId: 152700

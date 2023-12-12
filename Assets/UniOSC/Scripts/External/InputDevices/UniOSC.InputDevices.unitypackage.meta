@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 34bf1daea5adae14b88181475f8d74b4
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/External/InputDevices/UniOSC.InputDevices.unitypackage
+  uploadId: 152700

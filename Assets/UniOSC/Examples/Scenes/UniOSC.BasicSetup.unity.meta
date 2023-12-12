@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5eab1661cb1c56a49a3a7dc991d1481a
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Examples/Scenes/UniOSC.BasicSetup.unity
+  uploadId: 152700
