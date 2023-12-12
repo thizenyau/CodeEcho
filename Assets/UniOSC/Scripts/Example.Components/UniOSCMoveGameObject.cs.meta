@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd646febc1322af40aac9523cacd0278
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/UniOSCMoveGameObject.cs
+  uploadId: 152700

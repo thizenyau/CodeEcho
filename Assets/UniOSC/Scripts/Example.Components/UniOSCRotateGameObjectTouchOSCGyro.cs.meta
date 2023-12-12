@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47a247d7be39bc646b4f03787af3dde7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/UniOSCRotateGameObjectTouchOSCGyro.cs
+  uploadId: 152700

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f43766d08412b64898f193c7475aa47
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/ClassBased/Example.Classes/UniOSCEventDispatcherCBImplementation.cs
+  uploadId: 152700

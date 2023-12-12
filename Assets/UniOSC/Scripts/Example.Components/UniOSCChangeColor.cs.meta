@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81e39912a37996d44ae56c110abba92d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/UniOSCChangeColor.cs
+  uploadId: 152700

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fae3254323af8942b5cbd9024cbc041
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/UniOSCScaleGameObject.cs
+  uploadId: 152700
