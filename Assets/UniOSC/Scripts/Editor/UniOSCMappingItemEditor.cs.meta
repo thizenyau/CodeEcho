@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28821e17b49235944957ce0df4e96a90
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Editor/UniOSCMappingItemEditor.cs
+  uploadId: 152700

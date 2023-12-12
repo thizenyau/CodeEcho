@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e4b323066b2968a49b3183bdf19266c5
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/External/Flux/UniOSC.Flux.components.unitypackage
+  uploadId: 152700

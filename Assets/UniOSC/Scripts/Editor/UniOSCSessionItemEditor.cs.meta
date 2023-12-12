@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d41e02586364c914bb99681f7ae26cd0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Editor/UniOSCSessionItemEditor.cs
+  uploadId: 152700

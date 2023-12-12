@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d69cb3a95718e60448c8e3026c7a22f5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/UniOSCGUI.cs
+  uploadId: 152700
