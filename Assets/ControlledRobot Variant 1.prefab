@@ -1,0 +1,354 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &123977456396618417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8376083232419326257}
+  - component: {fileID: 1092539133261463835}
+  - component: {fileID: 540069816118192989}
+  - component: {fileID: 2529712605268254423}
+  m_Layer: 0
+  m_Name: Quad
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8376083232419326257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123977456396618417}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3424490491284231940}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1092539133261463835
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123977456396618417}
+  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &540069816118192989
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123977456396618417}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2529712605268254423
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123977456396618417}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &6264216025242556042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 11801280905299283, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 149190170741755043, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 233412350746513860, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 581477487982828476, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 896786850233394411, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_Name
+      value: ControlledRobot Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 896786850233394411, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1442556688751902044, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1463700690415329494, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599581399207945481, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684111937921371977, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1869070361936306384, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538922005284814561, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2574410385668408996, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2775756959136892658, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3199361933550026566, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265286334501143999, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339274727834232817, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3411079074375452318, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111124205509839229, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516784716263567291, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5403408028551051073, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457640738990785579, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5707610457314569025, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6216945054880826597, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6477708248097017742, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571644444056734501, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791996467079259307, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6849230876443639200, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7147361712691915520, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7188358785493069776, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7805895299826413004, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8023536174219127580, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348559634368867420, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8911335672969097278, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8968097904352209552, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      propertyPath: _myOSCConnections.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 8748467385626214798, guid: 592d3d16efb174f20a14dde27f527bd8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8376083232419326257}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 592d3d16efb174f20a14dde27f527bd8, type: 3}
+--- !u!4 &3424490491284231940 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8748467385626214798, guid: 592d3d16efb174f20a14dde27f527bd8,
+    type: 3}
+  m_PrefabInstance: {fileID: 6264216025242556042}
+  m_PrefabAsset: {fileID: 0}

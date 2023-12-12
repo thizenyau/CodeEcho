@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7a84158a21c82842910782bad35e590
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/ScriptableObjects/UniOSCFileObj.cs
+  uploadId: 152700

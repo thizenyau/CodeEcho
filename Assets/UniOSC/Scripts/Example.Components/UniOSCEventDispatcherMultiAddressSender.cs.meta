@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea86cf8478820d845903ca1a3f4c5b54
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/UniOSCEventDispatcherMultiAddressSender.cs
+  uploadId: 152700

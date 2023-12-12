@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebc23d8f7ece23e4499b64c2182b31b8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17658
+  packageName: UniOSC
+  packageVersion: Version 1.8
+  assetPath: Assets/UniOSC/Scripts/Example.Components/Editor/UniOSCToggleEditor.cs
+  uploadId: 152700
